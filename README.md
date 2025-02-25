@@ -1,1 +1,2 @@
 # Credit-Card-Fraud-Detection
+This is a tool prototype to help a financial institution to improve the accuracy of their fraud detection leveraging Generative AI. The challenge is that the data is imbalanced, since fraudulent transactions are much less than the eligible ones. To solve this problem as a data scientist I am going to use GAN (Generative Adversarial Networks) to generate synthetic fraudulent transactions that are indistinguishable from real fraudulent transactions. This data will balance the dataset and boost the accuracy of the fraud detection model.
